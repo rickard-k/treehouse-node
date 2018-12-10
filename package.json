@@ -1,0 +1,19 @@
+{
+  "name": "treehouse-node",
+  "version": "1.0.0",
+  "description": "A treehouse tutorial",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rickard-k/treehouse-node.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rickard-k/treehouse-node/issues"
+  },
+  "homepage": "https://github.com/rickard-k/treehouse-node#readme"
+}
